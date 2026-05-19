@@ -7,6 +7,9 @@
 
 ---
 
+
+![Screenshot](images/Screenshot 2026-05-19 042939.png)
+
 ## Setup (Windows)
 
 ```
